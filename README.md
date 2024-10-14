@@ -1,7 +1,9 @@
 ### About me
 I am Ana, a civil engineer and a third-semester Computer Science student at PUCPR :)
 
- ### :star: I'm working on a [math quiz](https://ana-borowsky.github.io/) with a [friend](https://github.com/romm27). :star:
+ ### :star: I'm currently working on :star:
+ - A [math quiz](https://ana-borowsky.github.io/) with my [friend](https://github.com/romm27).
+ - [Hardware and web application](https://github.com/gustacamara/py-ui) for controlling model railway layouts.
 <!---
 ### Languages
 [![My Skills](https://skillicons.dev/icons?i=css,html,js,react,java,php,c,py,ruby,rails,mysql&perline=11)](https://skillicons.dev)
