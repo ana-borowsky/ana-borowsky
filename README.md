@@ -1,5 +1,5 @@
 ### About me
-I am Ana, a civil engineer and a third-semester Computer Science student at PUCPR :)
+Civil engineer and a third-semester Computer Science student at PUCPR.
 
  ### :star: I'm currently working on :star:
  :heavy_plus_sign: A [math quiz](https://ana-borowsky.github.io/) with my [friend](https://github.com/romm27).<br>
