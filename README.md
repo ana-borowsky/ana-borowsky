@@ -1,5 +1,5 @@
 ### About me
-A civil engineer and a fourth-semester Computer Science student at PUCPR.
+A civil engineer and fourth-semester Computer Science student at PUCPR.
 
  ### :star: Some of my works: :star:
  :heavy_plus_sign: A [math quiz](https://ana-borowsky.github.io/) with my [friend](https://github.com/romm27).<br>
