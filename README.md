@@ -1,7 +1,7 @@
 ### About me
-A civil engineer and a third-semester Computer Science student at PUCPR.
+A civil engineer and a fourth-semester Computer Science student at PUCPR.
 
- ### :star: I'm currently working on :star:
+ ### :star: Some of my works: :star:
  :heavy_plus_sign: A [math quiz](https://ana-borowsky.github.io/) with my [friend](https://github.com/romm27).<br>
  :steam_locomotive: [Hardware and web application](https://github.com/gustacamara/py-ui) for controlling model railway layouts.
 <!---
