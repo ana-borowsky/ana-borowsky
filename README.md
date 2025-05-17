@@ -10,7 +10,7 @@ Engenheira civil pela UFPR e atual aluna do quarto período de ciência da compu
 [![My Skills](https://skillicons.dev/icons?i=css,html,js,react,java,php,c,py,ruby,rails,mysql&perline=11)](https://skillicons.dev)
 --->
 
-### :runner: Alguns tutoriais que fiz  :runner: ###
+### :runner: Tutorial de git para estudantes!  :runner: ###
 :page_facing_up: https://github.com/ana-borowsky/guia_de_git_para_estudantes
 
 ### Estatísticas
