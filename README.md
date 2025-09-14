@@ -4,7 +4,7 @@ Engenheira civil pela UFPR e atual aluna do quarto período de ciência da compu
  ### :star: Alguns trabalhos: :star:
  :heavy_plus_sign: Um [quiz de matemática](https://ana-borowsky.github.io/).<br>
  :steam_locomotive: [Uma aplicação de hardware/ web](https://github.com/gustacamara/py-ui) de controle de maquetes de ferreomodelismo.
- Feitos com meus dois amigos.
+ Feitos com dois amigos.
 <!---
 ### Languages
 [![My Skills](https://skillicons.dev/icons?i=css,html,js,react,java,php,c,py,ruby,rails,mysql&perline=11)](https://skillicons.dev)
