@@ -4,7 +4,6 @@ Estudante do quinto período de ciência da computação da PUCPR.
  ### :star: Alguns trabalhos: :star:
  :heavy_plus_sign: Um [quiz de matemática](https://ana-borowsky.github.io/).<br>
  :steam_locomotive: [Uma aplicação de hardware/ web](https://github.com/gustacamara/py-ui) de controle de maquetes de ferreomodelismo.
- Feitos com dois amigos.
 <!---
 ### Languages
 [![My Skills](https://skillicons.dev/icons?i=css,html,js,react,java,php,c,py,ruby,rails,mysql&perline=11)](https://skillicons.dev)
