@@ -1,5 +1,5 @@
 ### Sobre mim
-Engenheira civil pela UFPR e atual aluna do quarto período de ciência da computação da PUCPR.
+Estudante do quinto período de ciência da computação da PUCPR.
 
  ### :star: Alguns trabalhos: :star:
  :heavy_plus_sign: Um [quiz de matemática](https://ana-borowsky.github.io/).<br>
