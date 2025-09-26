@@ -2,7 +2,7 @@
 Estudante do quinto período de ciência da computação da PUCPR.
 
  ### :star: Alguns trabalhos: :star:
- :heavy_plus_sign: Um [quiz de matemática](https://ana-borowsky.github.io/).<br>
+ :heavy_plus_sign: Um [quiz de matemática](https://github.com/ana-borowsky/mathmagik).<br>
  :steam_locomotive: [Uma aplicação de hardware/ web](https://github.com/gustacamara/py-ui) de controle de maquetes de ferreomodelismo.
 <!---
 ### Languages
