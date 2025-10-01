@@ -1,16 +1,14 @@
 ### Sobre mim
 Estudante do quinto período de ciência da computação da PUCPR.
 
- ### :star: Alguns trabalhos: :star:
- :heavy_plus_sign: Um [quiz de matemática](https://github.com/ana-borowsky/mathmagik).<br>
- :steam_locomotive: [Uma aplicação de hardware/ web](https://github.com/gustacamara/py-ui) de controle de maquetes de ferreomodelismo.
+ ### :star: [Meu portfólio](https://ana-borowsky.github.io/) :star:
 <!---
 ### Languages
 [![My Skills](https://skillicons.dev/icons?i=css,html,js,react,java,php,c,py,ruby,rails,mysql&perline=11)](https://skillicons.dev)
 --->
 
-### :runner: Tutorial de git para estudantes!  :runner: ###
-:page_facing_up: https://github.com/ana-borowsky/guia_de_git_para_estudantes
+### :runner: [Tutorial de git para estudantes!](https://ana-borowsky.github.io/git) :runner: ###
+
 
 ### Estatísticas
 <p align="center">
